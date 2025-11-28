@@ -1,0 +1,9 @@
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\bin\Debug\DAL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\bin\Debug\DAL.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\bin\Debug\BE.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\bin\Debug\BE.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\obj\Debug\DAL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\DAL\obj\Debug\DAL.pdb

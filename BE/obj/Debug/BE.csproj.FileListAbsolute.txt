@@ -1,0 +1,6 @@
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\BE\bin\Debug\BE.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\BE\bin\Debug\BE.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\BE\obj\Debug\BE.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\BE\obj\Debug\BE.pdb
