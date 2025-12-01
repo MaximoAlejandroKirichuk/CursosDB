@@ -17,3 +17,4 @@ E:\facultad 2025\SegundoCuatrimestre\DAS\UI\PracticaFINAL\bin\Debug\DAL.pdb
 E:\facultad 2025\SegundoCuatrimestre\DAS\UI\PracticaFINAL\obj\Debug\UI.csproj.Up2Date
 E:\facultad 2025\SegundoCuatrimestre\DAS\UI\PracticaFINAL\obj\Debug\PracticaFINAL.exe
 E:\facultad 2025\SegundoCuatrimestre\DAS\UI\PracticaFINAL\obj\Debug\PracticaFINAL.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\UI\PracticaFINAL\obj\Debug\PracticaFINAL.UserControl1.resources

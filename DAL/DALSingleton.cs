@@ -12,7 +12,7 @@ namespace DAL
     public class DALSingleton
     {
         public static DALSingleton Instancia { get; private set; }
-        const string stringConnection = "Data Source=.;Initial Catalog=CursosDB;Integrated Security=True;";
+        const string stringConnection = "Data Source=MK;Initial Catalog=CursosDB;Integrated Security=True;";
         private DALSingleton()
         {
            
@@ -29,52 +29,44 @@ namespace DAL
         }
 
 
-        public bool Insertar(List<SqlParameter> parametros,string query)
+        // Método único para Insertar / Modificar / Eliminar
+        public bool EjecutarNonQuery(string query, List<SqlParameter> parametros = null, bool esStoredProcedure = false)
         {
-            using(SqlConnection conn = new SqlConnection(stringConnection))
+            using (SqlConnection conn = new SqlConnection(stringConnection))
+            using (SqlCommand cmd = new SqlCommand(query, conn))
             {
-                
-                using (SqlCommand cmd = new SqlCommand(query, conn))
-                {
-                    {
-                        if (parametros != null)
-                            cmd.Parameters.AddRange(parametros.ToArray());
+                if (esStoredProcedure)
+                    cmd.CommandType = CommandType.StoredProcedure;
+                if (parametros != null)
+                    cmd.Parameters.AddRange(parametros.ToArray());
 
-                        conn.Open();
-                        return cmd.ExecuteNonQuery() > 0;
-                    }
-                }
-            }
-        }
-        public bool Eliminar(List<SqlParameter> parameters, string query)
-        {
-            using(SqlConnection conn = new SqlConnection(stringConnection))
-            {
-                using(SqlCommand cmd = new SqlCommand(query,conn))
-                {
-                    if(parameters != null)
-                    {
-                        cmd.Parameters.AddRange(parameters.ToArray());
-                    }
-                    conn.Open();
-                    return cmd.ExecuteNonQuery() > 0;
-                }
+                conn.Open();
+                return cmd.ExecuteNonQuery() > 0;
             }
         }
 
-        public DataTable ObtenerTodos(string query)
+        // Método único para SELECT
+        public DataTable EjecutarQuery(string query, List<SqlParameter> parametros = null, bool esStoredProcedure = false)
         {
             DataTable tabla = new DataTable();
-            using(SqlConnection conn = new SqlConnection(stringConnection))
+
+            using (SqlConnection conn = new SqlConnection(stringConnection))
+            using (SqlCommand cmd = new SqlCommand(query, conn))
             {
-                using (SqlCommand cmd = new SqlCommand(query, conn))
-                {
-                    SqlDataAdapter da = new SqlDataAdapter(cmd);
-                    da.Fill(tabla);
-                    return tabla;
-                }
+                if (esStoredProcedure)
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                if (parametros != null)
+                    cmd.Parameters.AddRange(parametros.ToArray());
+
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                da.Fill(tabla);
             }
+
+            return tabla;
         }
-        
+
     }
+
 }
+

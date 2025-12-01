@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8236183-6DA7-40CF-B68C-955DB8370A08}|BLL\\BLL.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\bll\\prospectobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8236183-6DA7-40CF-B68C-955DB8370A08}|BLL\\BLL.csproj|solutionrelative:bll\\prospectobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8236183-6DA7-40CF-B68C-955DB8370A08}|BLL\\BLL.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\bll\\cursobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8236183-6DA7-40CF-B68C-955DB8370A08}|BLL\\BLL.csproj|solutionrelative:bll\\cursobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9551B751-CE8F-4761-A419-8AC534DF338A}|DAL\\DAL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\dal\\dalsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551B751-CE8F-4761-A419-8AC534DF338A}|DAL\\DAL.csproj|solutionrelative:dal\\dalsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9551B751-CE8F-4761-A419-8AC534DF338A}|DAL\\DAL.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\dal\\prospectodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551B751-CE8F-4761-A419-8AC534DF338A}|DAL\\DAL.csproj|solutionrelative:dal\\prospectodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116ED24E-BFD2-4C19-A5C1-52E09DE7AAEA}|MPP\\MPP.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\mpp\\cursompp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116ED24E-BFD2-4C19-A5C1-52E09DE7AAEA}|MPP\\MPP.csproj|solutionrelative:mpp\\cursompp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9551B751-CE8F-4761-A419-8AC534DF338A}|DAL\\DAL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\dal\\cursodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9551B751-CE8F-4761-A419-8AC534DF338A}|DAL\\DAL.csproj|solutionrelative:dal\\cursodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\be\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|solutionrelative:be\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116ED24E-BFD2-4C19-A5C1-52E09DE7AAEA}|MPP\\MPP.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\mpp\\prospectompp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116ED24E-BFD2-4C19-A5C1-52E09DE7AAEA}|MPP\\MPP.csproj|solutionrelative:mpp\\prospectompp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\practicafinal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A40404D-2B69-4024-9043-DB541B5467DC}|PracticaFINAL\\UI.csproj|solutionrelative:practicafinal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\be\\prospecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|solutionrelative:be\\prospecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\be\\isujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|solutionrelative:be\\isujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ui\\be\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011B10E9-F4CC-49E0-BA70-1C727C2BDC3E}|BE\\BE.csproj|solutionrelative:be\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\UserControl1.cs",
+              "RelativeDocumentMoniker": "PracticaFINAL\\UserControl1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\UserControl1.cs",
+              "RelativeToolTip": "PracticaFINAL\\UserControl1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:01:19.639Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PracticaFINAL\\Form1.Designer.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Form1.Designer.cs",
+              "RelativeToolTip": "PracticaFINAL\\Form1.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwIgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:55:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProspectoDAL.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\DAL\\ProspectoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProspectoDAL.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\DAL\\ProspectoDAL.cs",
+              "RelativeToolTip": "DAL\\ProspectoDAL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:02:05.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProspectoMPP.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\MPP\\ProspectoMPP.cs",
+              "RelativeDocumentMoniker": "MPP\\ProspectoMPP.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\MPP\\ProspectoMPP.cs",
+              "RelativeToolTip": "MPP\\ProspectoMPP.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:01:31.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProspectoBLL.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BLL\\ProspectoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ProspectoBLL.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BLL\\ProspectoBLL.cs",
+              "RelativeToolTip": "BLL\\ProspectoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:01:56.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\App.config",
+              "RelativeDocumentMoniker": "PracticaFINAL\\App.config",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\App.config",
+              "RelativeToolTip": "PracticaFINAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-01T15:45:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "PracticaFINAL\\UserControl1.Designer.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\UserControl1.Designer.cs",
+              "RelativeToolTip": "PracticaFINAL\\UserControl1.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAEwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:45:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Prospecto.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\Prospecto.cs",
+              "RelativeDocumentMoniker": "BE\\Prospecto.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\Prospecto.cs",
+              "RelativeToolTip": "BE\\Prospecto.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:33:40.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IObservador.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\IObservador.cs",
+              "RelativeDocumentMoniker": "BE\\IObservador.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\IObservador.cs",
+              "RelativeToolTip": "BE\\IObservador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:00:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISujeto.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\ISujeto.cs",
+              "RelativeDocumentMoniker": "BE\\ISujeto.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\ISujeto.cs",
+              "RelativeToolTip": "BE\\ISujeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:59:58.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\UserControl1.cs",
+              "RelativeDocumentMoniker": "PracticaFINAL\\UserControl1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaFINAL\\UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:58:24.642Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaFINAL\\Program.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Program.cs",
+              "RelativeToolTip": "PracticaFINAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:57:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoBLL.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BLL\\CursoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\CursoBLL.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BLL\\CursoBLL.cs",
+              "RelativeToolTip": "BLL\\CursoBLL.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwFIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:14:51.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticaFINAL\\Form1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Form1.cs*",
+              "RelativeToolTip": "PracticaFINAL\\Form1.cs*",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:57:10.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticaFINAL\\Form1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\PracticaFINAL\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PracticaFINAL\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:48:53.115Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\Curso.cs",
+              "RelativeDocumentMoniker": "BE\\Curso.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\BE\\Curso.cs",
+              "RelativeToolTip": "BE\\Curso.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:40:20.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CursoMPP.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\MPP\\CursoMPP.cs",
+              "RelativeDocumentMoniker": "MPP\\CursoMPP.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\MPP\\CursoMPP.cs",
+              "RelativeToolTip": "MPP\\CursoMPP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:34:27.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DALSingleton.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\DAL\\DALSingleton.cs",
+              "RelativeDocumentMoniker": "DAL\\DALSingleton.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\DAL\\DALSingleton.cs",
+              "RelativeToolTip": "DAL\\DALSingleton.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:53:15.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CursoDAL.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\DAL\\CursoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CursoDAL.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\UI\\DAL\\CursoDAL.cs",
+              "RelativeToolTip": "DAL\\CursoDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:53:09.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
